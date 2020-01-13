@@ -50,10 +50,10 @@ function create_board(){
       }
     }
   }
-  grid[15][15] = 'wall';
-  grid[15][16] = 'wall';
-  grid[16][15] = 'wall';
-  grid[16][16] = 'wall';
+  //grid[15][15] = 'wall';
+  //grid[15][16] = 'wall';
+  //grid[16][15] = 'wall';
+  //grid[16][16] = 'wall';
 }
 
 /*
